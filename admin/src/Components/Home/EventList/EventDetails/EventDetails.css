@@ -1,0 +1,17 @@
+.react-datetime-picker .react-datetime-picker__button {
+    border: none;
+}
+
+#event-context {
+    overflow: auto;
+}
+
+#add-student-card {
+    max-height: 300px;
+    overflow: auto;
+}
+
+.add-student-event {
+    float: right;
+    margin-top: 5px;
+}
